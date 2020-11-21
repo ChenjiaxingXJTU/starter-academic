@@ -3,8 +3,8 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
 
-# This file represents a page section.
 headless: true
+active: false  # Activate this widget? true/false
 
 # Order that this section appears on the page.
 weight: 90
